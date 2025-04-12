@@ -1,9 +1,77 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="5NAcVM29Z-HVU5JJ0zhd">
-    <mxGraphModel>
+    <mxGraphModel dx="874" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="275" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-3" value="Lancer le jeu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-5" value="Commencer une partie" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-7" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="253" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-8" value="&lt;span id=&quot;docs-internal-guid-187b71ca-7fff-09e6-dd03-045288ddd0ea&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;[manette/clavier non détecté]&lt;/span&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-7">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="443" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-9" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space: pre-wrap;&quot;&gt;[manette/clavier détecté]&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-7">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="293" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-10" value="&lt;span id=&quot;docs-internal-guid-6214994b-7fff-15aa-cfd2-ae83f8a62aa0&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;système affiche une erreur &lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="443" y="295" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-11" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="643" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-12" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="643" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-13" value="Chaque joueur choisis une faction" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="233" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-14" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="M9XOudd4Yxs5yQWYIXZu-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="293" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-15" value="Joueur choisi un territoire" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="233" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="275" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M9XOudd4Yxs5yQWYIXZu-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292.72" y="590" as="targetPoint" />
+            <mxPoint x="292.72" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
