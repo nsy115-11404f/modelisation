@@ -78,6 +78,22 @@
         <mxCell id="zl5Z9rwR7qq4CWvOWsA4-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="zl5Z9rwR7qq4CWvOWsA4-25" source="zl5Z9rwR7qq4CWvOWsA4-6" target="zl5Z9rwR7qq4CWvOWsA4-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zl5Z9rwR7qq4CWvOWsA4-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zl5Z9rwR7qq4CWvOWsA4-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl5Z9rwR7qq4CWvOWsA4-41" value="Joueur&lt;div&gt;Clavier&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zl5Z9rwR7qq4CWvOWsA4-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zl5Z9rwR7qq4CWvOWsA4-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zl5Z9rwR7qq4CWvOWsA4-42" value="Joueur&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Manette&lt;/span&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
