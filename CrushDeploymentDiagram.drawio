@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Page-1" id="dVRUBs3loV30u-IrzlS0">
-    <mxGraphModel>
+    <mxGraphModel dx="1345" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wa32vHPZVyRTPT0KSik1-2" value="Windows OS" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="130" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-3" value="Crush.exe" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="wa32vHPZVyRTPT0KSik1-2">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-6" value="SQLite DB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="wa32vHPZVyRTPT0KSik1-2">
+          <mxGeometry x="10" y="147.72727272727275" width="100" height="90.90909090909092" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=55;exitPerimeter=0;entryX=0.025;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="wa32vHPZVyRTPT0KSik1-2" source="wa32vHPZVyRTPT0KSik1-3" target="wa32vHPZVyRTPT0KSik1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-10" value="Mac OS" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="130" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-11" value="Crush.dmg" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="wa32vHPZVyRTPT0KSik1-10">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-12" value="SQLite DB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="wa32vHPZVyRTPT0KSik1-10">
+          <mxGeometry x="10" y="147.72727272727275" width="100" height="90.90909090909092" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=55;exitPerimeter=0;entryX=0.025;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="wa32vHPZVyRTPT0KSik1-10" source="wa32vHPZVyRTPT0KSik1-11" target="wa32vHPZVyRTPT0KSik1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-14" value="PS/Xbox" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="130" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-15" value="Crush" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="wa32vHPZVyRTPT0KSik1-14">
+          <mxGeometry width="100" height="80" relative="1" as="geometry">
+            <mxPoint x="10" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-16" value="SQLite DB" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="wa32vHPZVyRTPT0KSik1-14">
+          <mxGeometry x="10" y="147.72727272727275" width="100" height="90.90909090909092" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=55;exitPerimeter=0;entryX=0.025;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="wa32vHPZVyRTPT0KSik1-14" source="wa32vHPZVyRTPT0KSik1-15" target="wa32vHPZVyRTPT0KSik1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-18" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;keyboard&lt;/div&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-20" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;controller&lt;/div&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=60;exitPerimeter=0;entryX=1.008;entryY=0.654;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="wa32vHPZVyRTPT0KSik1-18" target="wa32vHPZVyRTPT0KSik1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wa32vHPZVyRTPT0KSik1-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=60;exitPerimeter=0;entryX=0;entryY=0;entryDx=250;entryDy=70;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="wa32vHPZVyRTPT0KSik1-20" target="wa32vHPZVyRTPT0KSik1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
