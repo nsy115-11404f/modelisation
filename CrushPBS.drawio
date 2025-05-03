@@ -1,47 +1,74 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="3-Qk5wtZPTvFzKyh6yI1">
-    <mxGraphModel dx="1163" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hTErs6WhZY8y_zGhwISz-2" value="CRUSH!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-3" value="Peripheral Mechanics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTErs6WhZY8y_zGhwISz-4" value="Frontend (Menus)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="hTErs6WhZY8y_zGhwISz-4" value="Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-5" value="Core Mechanics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-6" value="Shared Control System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-7" value="Crushing Mechanic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-8" value="Power-ups" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-9" value="Jam" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-10" value="Boost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-11" value="Hyena Spawning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-12" value="Energy System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hTErs6WhZY8y_zGhwISz-13" value="Main Menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hTErs6WhZY8y_zGhwISz-14" value="Tutorial Hints" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="hTErs6WhZY8y_zGhwISz-14" value="Tutorial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-18" value="Pause Menu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-19" value="Credits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-20" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-21" value="Database Schemas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-22" value="Art" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-23" value="3D Modeling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-24" value="Animation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-25" value="Sound" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hTErs6WhZY8y_zGhwISz-26" value="Video Effects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
